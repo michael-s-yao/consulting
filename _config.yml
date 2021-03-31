@@ -4,3 +4,5 @@ title: Academic Consulting
 description: Academic Consulting Services
 
 logo: /assets/images/test1.png
+github:
+  is_project_page: false
