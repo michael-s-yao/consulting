@@ -39,7 +39,7 @@ We are a small, dedicated group of parents and students that have collectively f
 --->
 
 <div>
-    <p><img src="/consulting/assets/images/michael.png" height="40%" width="40%" border="1px" style="float: left;">Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+    <p><img src="/consulting/assets/images/michael.png" height="40%" width="40%" border="1px" style="float: left;"><a href="https://michaelsyao.com"><b>Michael Yao</b></a><br>Current MD-PhD Candidate at University of Pennsylvania<br>BS in Physics at Caltech (Recruited for Swimming)<br>Admitted to 9 US medical schools and 11 undergraduate schools</p>
 </div>
 
 
