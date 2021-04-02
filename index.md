@@ -39,8 +39,7 @@ We are a small, dedicated group of parents and students that have collectively f
 --->
 
 <div>
-    <img src="/consulting/assets/images/michael.png" height="40%" width="40%" border="1px" style="float: left;">
-    <p style="float: right;">Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+    <p><img src="/consulting/assets/images/michael.png" height="40%" width="40%" border="1px" style="float: left;">Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
 
 
