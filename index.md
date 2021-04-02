@@ -1,3 +1,26 @@
+<head>
+	<style type="text/css">
+		.container {
+		  border: 3px solid blue;
+		  padding: 20px 40px 40px;
+		  max-width: 640px;
+		  &__image {
+		    display: inline-block;
+		    vertical-align: top;
+		    width: 46%;
+		    margin: 20px 30px 0 0;
+		  }
+		  &__text {
+		    display: inline-block;
+		    width: 46%;
+		    @media (max-width: 620px) {
+		      width: 100%;
+		    }
+		  }
+		}
+	</style>
+</head>
+
 ## Our Mission
 
 Getting into your dream college is now harder than ever. Our company's mission is to help guide you through the process of gaining admission at the most prestigious and selective schools in the United States.
