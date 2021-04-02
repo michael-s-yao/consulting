@@ -1,3 +1,9 @@
+<head>
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+
 ## Our Mission
 
 Getting into your dream college is now harder than ever. Our company's mission is to help guide you through the process of gaining admission at the most prestigious and selective schools in the United States.
