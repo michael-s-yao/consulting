@@ -1,21 +1,12 @@
 <head>
-	<style type="text/css">
+	<style type="text/scss">
 		.container {
-		  border: 3px solid blue;
-		  padding: 20px 40px 40px;
-		  max-width: 640px;
 		  &__image {
-		    display: inline-block;
-		    vertical-align: top;
-		    width: 46%;
-		    margin: 20px 30px 0 0;
+		    width: 250px;
+		    float: left;
 		  }
 		  &__text {
-		    display: inline-block;
-		    width: 46%;
-		    @media (max-width: 620px) {
-		      width: 100%;
-		    }
+		    display: inline;
 		  }
 		}
 	</style>
