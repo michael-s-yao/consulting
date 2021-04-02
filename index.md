@@ -9,7 +9,10 @@ We are a small, dedicated group of parents and students that have collectively f
 <div style="width:100%;display:block;margin:auto;">
     <p><img src="/consulting/assets/images/woman.png" height="40%" width="40%" border="0px" style="float: left;margin-right:10px"><b style="font-size: large">Jennifer Lee</b><br><em>Chief Consultant</em><br><br>Son Admitted to Princeton University (Recruited for Fencing)</p>
 </div>
-
+<br>
+<br>
+<br>
+<br>
 <hr>
 
 <div style="width:100%;display:block;margin:auto;">
