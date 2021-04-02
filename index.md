@@ -7,4 +7,12 @@ Getting into your dream college is now harder than ever. Our company's mission i
 We are a small, dedicated group of parents and students that have collectively figured out all of the details in the college application process.
 
 ![woman.png](/assets/images/woman.png)
+
 **Jennifer Lee**
+*Son Recruited for Fencing at Princeton University*
+
+![michael.png](/assets/images/michael.png)
+
+[**Michael Yao**](https://michaelsyao.com)
+
+
