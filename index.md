@@ -6,13 +6,13 @@ Getting into your dream college is now harder than ever. Our company's mission i
 
 We are a small, dedicated group of parents and students that have collectively figured out the details of the college application process.
 
-<div style="width:100%;display:block;">
+<div style="width:100%;display:block;margin:auto;">
     <p><img src="/consulting/assets/images/woman.png" height="40%" width="40%" border="0px" style="float: left;margin-right:10px"><b style="font-size: large">Jennifer Lee</b><br><em>Chief Consultant</em><br><br>Son Admitted to Princeton University (Recruited for Fencing)</p>
 </div>
 
 
 
-<div style="width:100%;display:block;">
+<div style="width:100%;display:block;margin:auto;">
     <p><img src="/consulting/assets/images/michael.png" height="40%" width="40%" border="0px" style="float: left;margin-right:10px"><a href="https://michaelsyao.com"><b style="font-size: large">Michael Yao</b></a><br><em>Consulting Partner</em><br><br>Current MD-PhD Candidate at University of Pennsylvania<br><em>BS in Physics at Caltech (Recruited for Swimming)</em><br><em>Admitted to 9 US medical schools and 11 undergraduate schools</em></p>
 </div>
 
