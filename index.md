@@ -13,11 +13,11 @@ We are a small, dedicated group of parents and students that have collectively f
 </div>
 
 <img src="/consulting/assets/images/michael.png" width="50%" height="50%" style="float:left">
-<div style="float:right">
-	<p style="float:right"><a href="https://michaelsyao.com"><b>Michael Yao</b></a></p>
-	<p style="float:right">Current MD-PhD Candidate at University of Pennsylvania</p>
-	<p style="float:right">BS in Physics at Caltech (Recruited for Swimming)</p>
-	<p style="float:right">Admitted to 9 US medical schools and 11 undergraduate schools</p>
+<div style="float:right;display:inline-block;">
+	<p style="float:right;display:inline-block;"><a href="https://michaelsyao.com"><b>Michael Yao</b></a></p>
+	<p style="float:right;display:inline-block;">Current MD-PhD Candidate at University of Pennsylvania</p>
+	<p style="float:right;display:inline-block;">BS in Physics at Caltech (Recruited for Swimming)</p>
+	<p style="float:right;display:inline-block;">Admitted to 9 US medical schools and 11 undergraduate schools</p>
 </div>
 
 
