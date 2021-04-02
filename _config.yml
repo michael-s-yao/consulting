@@ -6,3 +6,4 @@ description: Personalized educational consulting for exceptional students.
 logo: /assets/images/test1.png
 github:
   is_project_page: false
+show_downloads: true
