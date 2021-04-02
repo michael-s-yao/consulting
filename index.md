@@ -35,7 +35,7 @@
 }
 
 .text {
-  background-color: #4CAF50;
+  background-color: #383636;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
@@ -73,7 +73,12 @@ We are a small, dedicated group of parents and students that have collectively f
 <div class="container">
   <img src="/consulting/assets/images/michael.png" class="image" style="width:100%">
   <div class="middle">
-    <div class="text">John Doe</div>
+    <div class="text">
+        <p><a href="https://michaelsyao.com"><b>Michael Yao</b></a></p>
+        <p><em>Current MD-PhD Candidate at University of Pennsylvania</em></p>
+        <p><em>BS in Physics at Caltech (Recruited for Swimming)</em></p>
+        <p><em>Admitted to 9 US medical schools and 11 undergraduate schools</em></p>
+    </div>
   </div>
 </div>
 
