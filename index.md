@@ -1,17 +1,3 @@
-<head>
-	<style type="text/scss">
-		.container {
-		  &__image {
-		    width: 250px;
-		    float: left;
-		  }
-		  &__text {
-		    display: inline;
-		  }
-		}
-	</style>
-</head>
-
 ## Our Mission
 
 Getting into your dream college is now harder than ever. Our company's mission is to help guide you through the process of gaining admission at the most prestigious and selective schools in the United States.
