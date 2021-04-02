@@ -1,7 +1,7 @@
 <header>
     <ul class="downloads">
-        <li><a href="https://michaelsyao.com"><strong>Email Us</strong></a></li>
-        <li><a href="https://michaelsyao.com">"Connect "<strong>WeChat</strong></a></li>
+        <li><a href="https://michaelsyao.com">Connect via<strong>Email</strong></a></li>
+        <li><a href="https://michaelsyao.com">Connect via<strong>WeChat</strong></a></li>
     </ul>
 </header>
 
