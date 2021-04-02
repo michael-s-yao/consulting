@@ -51,6 +51,7 @@ Getting into your dream college is now harder than ever. Our company's mission i
 
 We are a small, dedicated group of parents and students that have collectively figured out all of the details in the college application process.
 
+<!---
 <img src="/consulting/assets/images/woman.png" width="50%" height="50%" style="float:left">
 <div style="float:right">
 	<p><b>Jennifer Lee</b></p>
@@ -67,42 +68,13 @@ We are a small, dedicated group of parents and students that have collectively f
 	<p><em>Admitted to 9 US medical schools and 11 undergraduate schools</em></p>
   </div>	
 </div>
+--->
 
 <div class="container">
-    <div class="row">
-        <div class="col-md-4 col-sm-6">
-            <div class="our-team">
-                <div class="pic">
-                    <img src="/consulting/assets/images/michael.png">
-                </div>
-                <div class="team-content">
-                    <h3 class="title">Williamson</h3>
-                    <span class="post">Web Developer</span>
-                    <ul class="social">
-                        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <div class="our-team">
-                <div class="pic">
-                    <img src="images/img-2.jpg">
-                </div>
-                <div class="team-content">
-                    <h3 class="title">Kristiana</h3>
-                    <span class="post">Web Designer</span>
-                    <ul class="social">
-                        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
+  <img src="/consulting/assets/images/michael.png" class="image" style="width:100%">
+  <div class="middle">
+    <div class="text">John Doe</div>
+  </div>
 </div>
 
 
