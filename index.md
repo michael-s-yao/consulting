@@ -10,8 +10,8 @@ We are a small, dedicated group of parents and students that have collectively f
 **Jennifer Lee**
 *Son Recruited for Fencing at Princeton University*
 
-![michael.png](/assets/images/michael.png){ .width="50%" height="50%"}
-[**Michael Yao**](https://michaelsyao.com)
+<img src="/assets/images/michael.png" width="50%" height="50%">
+<a href="https://michaelsyao.com"><b>Michael Yao</b></a>
 *Current MD-PhD Candidate at University of Pennsylvania*
 *BS in Physics at Caltech*
 *Recruited for Swimming at Caltech*
