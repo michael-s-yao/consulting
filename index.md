@@ -19,4 +19,11 @@ We are a small, dedicated group of parents and students that have collectively f
     <p><img src="/consulting/assets/images/michael.png" height="40%" width="40%" border="0px" style="float: left;margin-right:10px"><a href="https://michaelsyao.com"><b style="font-size: large">Michael Yao</b></a><br><em>Consulting Partner</em><br><br>Current MD-PhD Candidate at University of Pennsylvania<br><em>BS in Physics at Caltech (Recruited for Swimming)</em><br><em>Admitted to 9 US medical schools and 11 undergraduate schools</em></p>
 </div>
 
+## Our Services
 
+We work with students through every step of their academic journey, including...
+
+  - coursework scheduling and crafting meaningful extracurricular activites for college applications and medical/graduate school.
+  - college essay revisions and putting together the Common App (+secondaries).
+  - medical school essay revisions for both the AMCAS and AACOMAS applications.
+  - preparing for behavioral interviews.
