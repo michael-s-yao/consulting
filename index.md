@@ -32,4 +32,4 @@ We work with students through every step of their academic journey, including...
   - medical school essay revisions for both the AMCAS and AACOMAS applications.
   - preparing for behavioral interviews.
 
-If you are interested in learning more about how we can help you, please reach out to us at [hello]
+If you are interested in learning more about how we can help you, please reach out to us at [info@princetonacademy.org](mailto:michaelyao2017@gmail.com).
