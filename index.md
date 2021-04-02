@@ -9,7 +9,7 @@
 
 ## Our Mission
 
-Getting into your dream college is now harder than ever. Our company's mission is to help guide you through the process of gaining admission at the most prestigious and selective schools in the United States.
+Getting into your dream college is now harder than ever. <strong style="text-color:#407ab4">Princeton Academy</strong>'s mission is to help guide you through the process of gaining admission at the most prestigious and selective schools in the United States.
 
 ## Who We Are
 
