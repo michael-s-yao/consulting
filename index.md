@@ -3,7 +3,7 @@
 <style>
 .container {
   position: relative;
-  width: 100%;
+  width: 80%;
 }
 
 .image {
@@ -19,8 +19,8 @@
   transition: .5s ease;
   opacity: 0;
   position: absolute;
-  top: 20%;
-  left: 20%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
