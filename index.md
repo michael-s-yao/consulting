@@ -1,3 +1,10 @@
+<header>
+    <ul class="downloads">
+        <li><a href="https://michaelsyao.com"><strong>Email Us</strong></a></li>
+        <li><a href="https://michaelsyao.com">"Connect "<strong>WeChat</strong></a></li>
+    </ul>
+</header>
+
 ## Our Mission
 
 Getting into your dream college is now harder than ever. Our company's mission is to help guide you through the process of gaining admission at the most prestigious and selective schools in the United States.
