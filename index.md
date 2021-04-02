@@ -1,48 +1,3 @@
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.container {
-  position: relative;
-  width: 80%;
-}
-
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
-
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-.container:hover .image {
-  opacity: 0.3;
-}
-
-.container:hover .middle {
-  opacity: 1;
-}
-
-.text {
-  background-color: #383636;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
-}
-</style>
-</head>
-
 ## Our Mission
 
 Getting into your dream college is now harder than ever. Our company's mission is to help guide you through the process of gaining admission at the most prestigious and selective schools in the United States.
@@ -68,18 +23,24 @@ We are a small, dedicated group of parents and students that have collectively f
 	<p><em>Admitted to 9 US medical schools and 11 undergraduate schools</em></p>
   </div>	
 </div>
---->
+
 
 <div class="container">
   <img src="/consulting/assets/images/michael.png" class="image" style="width:100%">
   <div class="middle">
     <div class="text">
         <p><a href="https://michaelsyao.com"><b>Michael Yao</b></a></p>
-        <p><em>Current MD-PhD Candidate at University of Pennsylvania</em></p>
-        <p><em>BS in Physics at Caltech (Recruited for Swimming)</em></p>
-        <p><em>Admitted to 9 US medical schools and 11 undergraduate schools</em></p>
+        <p>Current MD-PhD Candidate at University of Pennsylvania</p>
+        <p>BS in Physics at Caltech (Recruited for Swimming)</p>
+        <p>Admitted to 9 US medical schools and 11 undergraduate schools</p>
     </div>
   </div>
+</div>
+--->
+
+<div>
+    <p style="float: left;"><img src="/consulting/assets/images/michael.png" height="40%" width="40%" border="1px"></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
 
 
