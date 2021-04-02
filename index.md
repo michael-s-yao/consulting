@@ -4,7 +4,7 @@ Getting into your dream college is now harder than ever. Our company's mission i
 
 ## Who We Are
 
-We are a small, dedicated group of parents and students that have collectively figured out the details of the college application process.
+We are a small, dedicated group of parents and students that have collectively figured out the details of the US college application process.
 
 <div style="width:100%;display:block;margin:auto;">
     <p><img src="/consulting/assets/images/woman.png" height="40%" width="40%" border="0px" style="float: left;margin-right:10px"><b style="font-size: large">Jennifer Lee</b><br><em>Chief Consultant</em><br><br>Son Admitted to Princeton University (Recruited for Fencing)</p>
