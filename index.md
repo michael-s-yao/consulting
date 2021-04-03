@@ -1,5 +1,5 @@
 
-<div class="wrapper">
+<div class="wrapper" style="position: static">
 	<header style="background-color:#fff;width:100%">
 		<ul class="downloads" style="position:static;">
 		    <li><a href="https://michaelsyao.com">Connect via<strong>Email</strong></a></li>
