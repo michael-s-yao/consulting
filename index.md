@@ -39,7 +39,7 @@ We work with students through every step of their academic journey, including...
 
   - coursework scheduling and crafting meaningful extracurricular activites for college applications and medical/graduate school.
   - college essay revisions and putting together the Common App (+secondaries).
-  - medical school essay revisions for both the AMCAS and AACOMAS applications.
-  - preparing for behavioral interviews.
+  - crafting powerful medical school essays for both the AMCAS and AACOMAS applications.
+  - preparing for behavioral interviews and writing successful resumes.
 
 If you are interested in learning more about how we can help you, please reach out to us at [info@princetonacademy.org](mailto:michaelyao2017@gmail.com).
