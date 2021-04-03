@@ -6,6 +6,7 @@
     <li><a href="https://michaelsyao.com">Connect via<strong>WeChat</strong></a></li>
     <li><a href="https://michaelsyao.com">Connect via<strong>Facebook</strong></a></li>
 </ul>
+<hr>
 </header>
 
 <br>
