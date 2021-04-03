@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+  display: none;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
