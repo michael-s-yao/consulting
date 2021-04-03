@@ -1,9 +1,10 @@
-
+<header>
 <ul class="downloads">
     <li><a href="https://michaelsyao.com">Connect via<strong>Email</strong></a></li>
     <li><a href="https://michaelsyao.com">Connect via<strong>WeChat</strong></a></li>
     <li><a href="https://michaelsyao.com">Connect via<strong>Facebook</strong></a></li>
 </ul>
+</header>
 
 <br>
 
