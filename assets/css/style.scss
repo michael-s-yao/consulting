@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+article.page {
+  float: left;
+  width: 100%;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
