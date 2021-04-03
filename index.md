@@ -1,12 +1,3 @@
-
-
-<ul class="downloads" style="position:static;">
-    <li><a href="https://michaelsyao.com">Connect via<strong>Email</strong></a></li>
-    <li><a href="https://michaelsyao.com">Connect via<strong>WeChat</strong></a></li>
-    <li><a href="https://michaelsyao.com">Connect via<strong>Facebook</strong></a></li>
-</ul>
-<hr>
-
 ## Our Mission
 
 Getting into your dream college is now harder than ever. <strong style="color:#407ab4">Princeton Academy</strong>'s mission is to help guide you through the process of gaining admission at the most prestigious and selective schools in the United States.
@@ -42,3 +33,10 @@ We work with students through every step of their academic journey, including...
   - preparing for behavioral interviews and writing successful resumes.
 
 If you are interested in learning more about how we can help you, please reach out to us at [info@princetonacademy.org](mailto:michaelyao2017@gmail.com).
+
+<hr>
+<ul class="downloads" style="position:static;">
+    <li><a href="https://michaelsyao.com">Connect via<strong>Email</strong></a></li>
+    <li><a href="https://michaelsyao.com">Connect via<strong>WeChat</strong></a></li>
+    <li><a href="https://michaelsyao.com">Connect via<strong>Facebook</strong></a></li>
+</ul>
