@@ -1,7 +1,7 @@
 
 
 <header>
-<ul class="downloads" style="position:static;">
+<ul class="downloads" style="position:static;background-color:#fff;">
     <li><a href="https://michaelsyao.com">Connect via<strong>Email</strong></a></li>
     <li><a href="https://michaelsyao.com">Connect via<strong>WeChat</strong></a></li>
     <li><a href="https://michaelsyao.com">Connect via<strong>Facebook</strong></a></li>
