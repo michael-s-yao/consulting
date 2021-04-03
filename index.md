@@ -1,14 +1,11 @@
 
-<div class="wrapper" style="position: static">
-	<header style="background-color:#fff;width:100%">
-		<ul class="downloads" style="position:static;">
-		    <li><a href="https://michaelsyao.com">Connect via<strong>Email</strong></a></li>
-		    <li><a href="https://michaelsyao.com">Connect via<strong>WeChat</strong></a></li>
-		    <li><a href="https://michaelsyao.com">Connect via<strong>Facebook</strong></a></li>
-		</ul>
-		<hr>
-	</header>
-</div>
+
+<ul class="downloads" style="position:static;">
+    <li><a href="https://michaelsyao.com">Connect via<strong>Email</strong></a></li>
+    <li><a href="https://michaelsyao.com">Connect via<strong>WeChat</strong></a></li>
+    <li><a href="https://michaelsyao.com">Connect via<strong>Facebook</strong></a></li>
+</ul>
+<hr>
 
 <br>
 <br>
